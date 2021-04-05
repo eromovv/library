@@ -1,6 +1,8 @@
 HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+!.mvn/wrapper/MavenWrapperDownloader.java
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -31,4 +33,4 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/com/library/controller/BookController.java
+
